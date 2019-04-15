@@ -27,10 +27,10 @@ body{
   animation-iteration-count: infinite;
 }
 @keyframes change{
-   0%{background-image:url(file:///E:/project03/images/background-3228704__340.jpg)}
-   30%{background-image:url(file:///E:/project03/images/web-design-2906159__340.jpg) }
-   80%{background-image:url(file:///E:/project03/images/web-1012467__340.jpg)}
-  100%{background-image:url(file:///E:/project03/images/businessman-3213659__340.jpg)}
+   0%{background-image:url(file:///E:/project03/Trying-to-scale-the-project-on-the-mobile-phone/images/web-design-2906159__340.jpg)}
+   30%{background-image:url(file:///E:/project03/Trying-to-scale-the-project-on-the-mobile-phone/images/web-1012467__340.jpg) }
+   80%{background-image:url(file:///E:/project03/Trying-to-scale-the-project-on-the-mobile-phone/images/background-3228704__340.jpg)}
+  100%{background-image:url(file:///E:/project03/Trying-to-scale-the-project-on-the-mobile-phone/images/businessman-3213659__340.jpg)}
 }
 .test{
   float:left;
